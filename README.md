@@ -1,3 +1,27 @@
+# Personal Website Generator 🌐
+
+A dynamic React + Firebase app that allows users to:
+
+- Register/Login using Firebase Auth
+- Fill in personal details
+- Auto-generate a custom personal website
+- Preview and manage content from the dashboard
+
+## Tech Stack
+
+- ⚛️ React (Vite)
+- 🔥 Firebase Authentication
+- 💨 Tailwind CSS
+- 🌍 React Router
+
+## Setup Instructions
+
+```bash
+git clone https://github.com/Melckykaisha/personal-website-generator.git
+cd personal-website-generator
+npm install
+npm run dev
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
